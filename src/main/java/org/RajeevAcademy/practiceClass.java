@@ -22,4 +22,8 @@ public class practiceClass {
 
         System.out.println("Get int Data from branch Develop");
     }
+    public void getDataBoolean(int num){
+
+        System.out.println("Get boolean Data from branch Develop");
+    }
 }
